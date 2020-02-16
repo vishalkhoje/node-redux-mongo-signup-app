@@ -1,4 +1,4 @@
-# mern-auth
+# mern-app
 
 ![Final App]()
 Reactjs, Redux, NodeJs, MondoDB app with authentication using passport and JWTs.
